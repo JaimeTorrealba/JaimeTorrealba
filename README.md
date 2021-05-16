@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/jaimebboyjt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/jaimebboyjt" height="30" width="40" /></a>
-<a href="https://twitter.com/jaimeatorrealb1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jaimeatorrealb1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaime-torrealba-cordova-900aa4128/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jaime-torrealba-cordova-900aa4128/" height="30" width="40" /></a>
+<a href="https://twitter.com/JaimeTorrealbaC" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jaimeatorrealb1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaime-torrealba-cordova/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jaime-torrealba-cordova-900aa4128/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14013532/jaime-torrealba-cordova?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14013532/jaime-torrealba-cordova?tab=profile" height="30" width="40" /></a>
 <a href="https://medium.com/@solucionesinformaticasjtc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@solucionesinformaticasjtc" height="30" width="40" /></a>
 </p>
