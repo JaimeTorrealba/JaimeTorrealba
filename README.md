@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaime</h1>
 <h3 align="center">A passionate creative developer</h3>
 
-<!-- - 🔭 I’m currently working on [Ripley Tech](https://www.linkedin.com/showcase/ripleytech-/) -->
-
 - 💬 Ask me about **Vue.Js, Three.js, Tres.js**
+
+- Maintainer in [tresjs](https://docs.tresjs.org/team.html)
 
 - Check my TresJs (ThreeJs) [Playground](https://lab.jaimetorrealba.com/)
 
