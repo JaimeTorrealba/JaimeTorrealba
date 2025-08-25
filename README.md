@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jaime</h1>
 <h3 align="center">A passionate creative developer</h3>
 
-- 💬 Ask me about **Vue.Js, Three.js, Tres.js**
+- 🔭 I’m currently working on [Push security](https://pushsecurity.com/)
 
-- Maintainer in [tresjs](https://docs.tresjs.org/team.html)
+- 💻 Ex [Tres.js](tresjs.org) Maintainer
+
+- 💬 Ask me about **Vue.Js, Three.js, Tres.js, GSAP**
 
 - Check my TresJs (ThreeJs) [Playground](https://lab.jaimetorrealba.com/)
 
