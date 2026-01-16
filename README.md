@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Push security](https://pushsecurity.com/)
 
-- 💻 Ex [Tres.js](tresjs.org) Maintainer
+- 💻 [Tres.js](tresjs.org) Core team member
 
 - 💬 Ask me about **Vue.Js, Three.js, Tres.js, GSAP**
 
